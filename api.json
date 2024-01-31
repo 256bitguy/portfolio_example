@@ -1,0 +1,201 @@
+{
+    "aboutMe":{
+        "name":"Vivek Raj Srivastava",
+        "about":"i am a full stack developer with a tech skill with development in frontend and backend" 
+            },
+    "academics":{
+        "class10":{
+            "schoolImage":"https://no1gorakhpur.kvs.ac.in/sites/all/themes/school/images/kvslogo.jpg",
+            "text1":"Academic Achievement: Secured a perfect 10 CGPA in Class 10",
+            "text2":"School: Kendriya Vidyalaya, where I excelled in academics and embraced a holistic learning environment.",
+            "text3":"Mathematical Aptitude: Selected for the Pre-RMO (Regional Mathematical Olympiad) in 2017, showcasing strong problem-solving skills."
+        },
+        "class12":{
+            "schoolImage":"https://no1gorakhpur.kvs.ac.in/sites/all/themes/school/images/kvslogo.jpg",
+            "text1":"Academic Achievement: Secured a perfect 10 CGPA in Class 10",
+            "text2":"School: Kendriya Vidyalaya, where I excelled in academics and embraced a holistic learning environment.",
+            "text3":"Mathematical Aptitude: Selected for the Pre-RMO (Regional Mathematical Olympiad) in 2017, showcasing strong problem-solving skills."
+        },
+       "btech": {
+            "schoolImage":"https://no1gorakhpur.kvs.ac.in/sites/all/themes/school/images/kvslogo.jpg",
+            "text1":"Academic Achievement: Secured a perfect 10 CGPA in Class 10",
+            "text2":"School: Kendriya Vidyalaya, where I excelled in academics and embraced a holistic learning environment.",
+            "text3":"Mathematical Aptitude: Selected for the Pre-RMO (Regional Mathematical Olympiad) in 2017, showcasing strong problem-solving skills."
+        }
+            },
+    "projects":{    
+        "html":{
+            "project1":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project2":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project3":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project4":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            }
+        },
+        "javascript":{
+            "project1":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project2":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project3":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project4":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            }
+        },
+        "reactJs":{
+            "project1":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project2":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project3":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project4":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            }
+        },
+        "nodeJs":{
+            "project1":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project2":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project3":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project4":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            }
+        },
+        "mern":{
+            "project1":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project2":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project3":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            },"project4":{
+                "title":"title 1",
+                "link":"https://www.canva.com/",
+                "description":"this is first project",
+                "technologies":"html css javascript"
+            }
+        }
+    },
+    "certification":{
+        "webdev":{
+            "description":"learning webdev with html css javascript reactjs angular",
+            "link":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing",
+            "source":"Udemy"
+        }, 
+        "react":{
+            "description":"learning webdev with html css javascript reactjs angular",
+            "link":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing",
+            "source":"Udemy"
+        } ,
+        "nodeJs":{
+            "description":"learning webdev with html css javascript reactjs angular",
+            "link":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing",
+            "source":"Udemy"
+        },
+        "reactNative":{
+            "description":"learning webdev with html css javascript reactjs angular",
+            "link":"",
+            "source":"Udemy"
+        }
+    },
+    "achievements":{
+        "cocurricular":"",
+        "coding":{
+            "codechef":{
+                "rating":"",
+                "link":""
+            },"codeforces":{
+                "rating":"",
+                "link":""
+            },"leetcode":{
+                "rating":"",
+                "link":""
+            }
+        }
+    },
+    "images":[
+        {
+            "title":"event anchor",
+            "imageLink":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing"
+        },{
+            "title":" akalpit ",
+            "imageLink":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing"
+        },{
+            "title":"seceratary",
+            "imageLink":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing"
+        },{
+            "title":" organiser",
+            "imageLink":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing"
+        },{
+            "title":"party",
+            "imageLink":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing"
+        },{
+            "title":"cameraman",
+            "imageLink":"https://drive.google.com/file/d/1VbLaTGVnDn0WIF6SAdJ_F2-MQiEK4CBn/view?usp=sharing"
+        }
+    ]
+}
